@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+       .nav-item{
+           padding: 10px 30px;
+           margin-right: 30px;
+        float: right;
+        border: none;
+        background-color: #ffdd50;
+       }
+       .nav-item:hover
+       {
+           border: 2px solid black;
+           box-shadow: 0 8px 16px 0 rgba(0, 0, 0,0.4)
+
+       }
+       .nav
+       {
+           margin: 40px;
+       }
